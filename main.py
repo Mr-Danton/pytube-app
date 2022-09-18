@@ -2,6 +2,7 @@ from pytube import YouTube
 
 download_folder = "/home/jordan/Videos/Pytube"
 url = "https://www.youtube.com/watch?v=C82lT9cWQiA"
+url2 = ""
 
 video_object = YouTube( url )
 
